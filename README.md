@@ -22,7 +22,7 @@ This project is licensed under the GNU General Public License (GPL). You are fre
 
 ## Deployment
 
-The app is deployed on Streamlit Community Cloud and can be accessed [here](insert-your-streamlit-app-link).
+The app is deployed on Streamlit Community Cloud and can be accessed [here](https://creditcardfrauddetectionapp.streamlit.app/).
 
 ## Contributing
 
